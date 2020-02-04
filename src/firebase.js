@@ -1,12 +1,12 @@
 import * as firebase from 'firebase';
 
 const config = {
-    apiKey: 'AIzaSyBuAo-2Hnz75e-ztSNvTuqpY9BhM6DQlLs',
-    authDomain: 'reactblog-829c6.firebaseapp.com',
-    databaseURL: 'https://reactblog-829c6.firebaseio.com',
-    projectId: 'reactblog-829c6',
-    storageBucket: 'reactblog-829c6.appspot.com',
-    messagingSenderId: '848529285129'
+    apiKey: 'XXX',
+    authDomain: 'xxx.firebaseapp.com',
+    databaseURL: 'https://xxx.firebaseio.com',
+    projectId: 'xxx',
+    storageBucket: 'xxx.appspot.com',
+    messagingSenderId: 'xxxxxx'
 };
 firebase.initializeApp(config);
 
